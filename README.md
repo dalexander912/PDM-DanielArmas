@@ -6,3 +6,5 @@ Programación de Dispositivos Móviles: Laboratorios
 Laboratorio 1: Android Studio y Fundamentos de Kotlin
 
 Laboratorio 2: Uso de Jetpack Compose
+
+Laboratorio 3: Navegación y uso de sensores
