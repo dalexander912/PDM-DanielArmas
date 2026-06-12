@@ -10,3 +10,5 @@ Laboratorio 2: Uso de Jetpack Compose
 Laboratorio 3: Navegación y uso de sensores
 
 Laboratorio 4: Arquitectura MVVM
+
+Laboratorio 5: Persistencia de datos con Room
